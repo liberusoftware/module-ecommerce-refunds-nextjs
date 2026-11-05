@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-refunds-nextjs",
+  "capabilityKey": "planned:ecommerce:refunds",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-refunds-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/refunds.md",
+  "presentationPlan": "projects/ecommerce/nextjs/refunds.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
